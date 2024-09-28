@@ -1,71 +1,54 @@
-# Hello, I'm Md Enayet Hossain! 👋
+# Hi there! I'm Md Enayet Hossain 👋
 
-![Hello World](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+
+[![Hello World](https://github.com/user-attachments/assets/aea20213-b6e9-4544-8314-7e3fda61aef7)](https://portfolio-enayet-hossain.vercel.app/home)
+
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/md-enayet-hossain/count.svg" />
 </p>
 
-## About Me
 
-I'm **Md Enayet Hossain**, a passionate software developer based in Dhaka, Bangladesh. With a love for solving complex problems and creating efficient, scalable software, I've been honing my skills in .NET development and Angular front-end technologies. From building microservices to full-stack applications, I’ve spent the last 6 months working on real-world projects, experimenting with new technologies, and contributing to the developer community.
+<!-- Feel free to customize the structure and layout to better suit your profile! -->
 
-I enjoy crafting solutions that are functional and user-friendly, but I also believe in writing clean, maintainable code that can stand the test of time. My goal is always to bridge the gap between user needs and technical possibilities, creating products that offer real value.
+## 👨‍💻 About Me
+- 🖥 I'm a **Software Developer** passionate about building robust, scalable applications.
+- 💼 Currently working on a range of exciting projects, from web apps to microservices.
+- 🎓 Graduated in **Computer Science & Engineering** from **Brac University**.
+- 🚀 Always learning and exploring new technologies to stay at the forefront of the industry.
+- 🌱 I enjoy contributing to **open source projects** and solving algorithmic challenges.
 
-When I’m not coding, you can find me solving algorithmic challenges or deepening my knowledge of software architecture. I believe in lifelong learning and the power of collaboration to build something truly impactful.
-
----
-
-## What I Do 🚀
-
+## ⚒️ My Tech Stack
 - **Programming Languages**: C++, C#, TypeScript, JavaScript
 - **Frameworks & Libraries**: ASP.NET Core, Entity Framework Core, Angular
 - **Databases**: MSSQL
 - **Tools**: Git, Docker, IIS Hosting
 
-I'm always looking for opportunities to grow my technical expertise and to work on projects that challenge my skills. Whether it's back-end development with .NET or front-end with Angular, I love diving into new problems and finding innovative solutions.
+## 🌟 Current Projects
+- **Personal Collection Management App**:  
+  A full-featured web application that allows users to manage their personal collections.  
+  **Tech Stack**: ASP.NET Core, Angular, Algolia, Imgur  
+  [Live Demo](https://personal-collection-management-client.vercel.app/) | [Source Code](https://github.com/enayet329/PersonalCollectionManagement-client)
 
----
+- **ASP.NET Microservices Architecture**:  
+  Built a scalable e-commerce application using microservices, RabbitMQ, and Docker.  
+  [Source Code](https://github.com/enayet329/AspnetMicroservices)
 
-## Experience 💼
+- **ConsoleGame**:  
+  A cryptographically secure Rock-Paper-Scissors game implemented with C#.  
+  [Source Code](https://github.com/enayet329/ConsoleGame)
 
-I recently completed an internship at **Itransition**, where I had the opportunity to work alongside talented engineers, developing and testing software solutions. It was a hands-on experience that allowed me to contribute to real-world projects, collaborate with a diverse team, and get my hands dirty with everything from deployment to integration. This internship solidified my love for building scalable and efficient software, and it was an invaluable learning experience.
+## 🔔 What I’m Up To
+- 🔨 Currently developing new features for the **Personal Collection Management App**.
+- 🎯 In the near future, I plan to expand my expertise in cloud-native development.
 
----
-
-## Recent Projects 💻
-
-### Personal Collection Management Application
-During the last few months, I’ve worked on a full-featured **Personal Collection Management Application**, which helps users manage and customize their collections. This project uses Angular on the front end, while the back end is powered by ASP.NET Core. I incorporated features like secure JWT authentication, multi-language support, and integrated Algolia for seamless search functionality. It was an exciting challenge to build something that’s both scalable and adaptable for future use cases.
-- [Check out the code](https://github.com/enayet329/PersonalCollectionManagement-client)
-- [Live demo](https://personal-collection-management-client.vercel.app/)
-
-### ASP.NET Microservices Architecture
-In another project, I built a scalable **e-commerce application** using a microservices architecture. The system leverages Docker for containerization and RabbitMQ for handling asynchronous messaging between services. Designing a robust API layer and ensuring reliable inter-service communication was key to making this project a success.
-- [Explore the code](https://github.com/enayet329/AspnetMicroservices)
-
-### Console Game
-For fun, I created a secure **Rock-Paper-Scissors game** that uses HMAC cryptography to ensure the integrity of each move. It was a neat way to explore cryptographic concepts while building something entertaining.
-- [View the project](https://github.com/enayet329/ConsoleGame)
-
----
-
-## Education 🎓
-
-I hold a **Bachelor’s degree in Computer Science & Engineering** from **Brac University**. My time at university not only equipped me with the theoretical foundations of computer science but also gave me the chance to apply my skills in real-world scenarios through various projects and extracurricular activities.
-
----
-
-## Let’s Connect ☕  
-
-I'm always excited to meet like-minded developers and collaborate on projects! Feel free to reach out:
-
+## 🤝 Let’s Connect!
 - [Email](mailto:md.enayet.hossain329@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/md-enayet-hossain-hossain-80b66032a/)
 - [GitHub](https://github.com/enayet329?tab=repositories)
 - [Portfolio](https://portfolio-enayet-hossain.vercel.app/home)
 
----
-
-Whether it’s building applications from scratch or optimizing existing solutions, I’m eager to tackle new challenges and contribute to impactful projects. Let’s create something amazing together!
+## ⚡ Fun Facts
+- I love to solve algorithmic problems and have solved over 600 on platforms like **Codeforces**, **LeetCode**, and **GeeksforGeeks**.
+- I’m fascinated by **cryptography** and the idea of creating secure, transparent systems.
