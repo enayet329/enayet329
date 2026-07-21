@@ -39,6 +39,7 @@ var enayet = new SoftwareEngineer
 > ⚡ **Shipped 2 production systems** (Travilo UAT · TrackForce, 500+ users) in my first year
 > 🏗️ **Designed a plugin-based supplier abstraction** — new GDS providers plug in with zero core changes
 > 📜 **Foundational C# with Microsoft** — Developer Certification (2026)
+> 💬 **Ask me about** GDS/NDC integration, high-concurrency booking flows, or Clean Architecture in .NET
 
 <br/>
 
@@ -160,6 +161,20 @@ Modular AI assistant on **Microsoft Semantic Kernel**.
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enayet329&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=8" height="150" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=enayet329&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" width="98%" />
+
+</div>
+
+### 🐍 Watch my contributions come to life
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enayet329/enayet329/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enayet329/enayet329/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/enayet329/enayet329/output/github-snake.svg" width="98%" />
+</picture>
+
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=enayet329&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="98%" />
 
