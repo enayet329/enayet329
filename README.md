@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Md Enayet Hossain — .NET Developer | Backend & Microservices | GDS Integration Lead"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:1e3a8a,100:7c3aed&height=200&section=header&text=Md%20Enayet%20Hossain&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=.NET%20Developer%20|%20Backend%20%26%20Microservices%20|%20GDS%20Integration%20Lead&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Md Enayet Hossain"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=720&lines=Building+Enterprise+OTA+Platforms+%E2%9C%88%EF%B8%8F;ASP.NET+Core+%7C+Microservices+%7C+Angular;Unifying+Sabre%2C+Travelport%2C+Amadeus+%26+Zenith;Clean+Architecture+%7C+DDD+%7C+High-Concurrency" alt="Typing SVG" />
 
@@ -186,6 +186,6 @@ Modular AI assistant on **Microsoft Semantic Kernel**.
 <a href="https://www.linkedin.com/in/enayet329"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
 <a href="mailto:md.enayet.hossain329@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<img src="./assets/footer.svg" width="100%" alt="footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0e75b6&height=150&section=footer&text=Thanks%20for%20scrolling!&fontSize=26&fontColor=ffffff&fontAlignY=68&animation=twinkling" width="100%" alt="footer wave"/>
 
 </div>
