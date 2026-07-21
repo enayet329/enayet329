@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Md%20Enayet%20Hossain&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=.NET%20Developer%20%7C%20Backend%20%26%20Microservices%20%7C%20GDS%20Integration%20Lead&descAlignY=55&descSize=18&v=2" width="100%"/>
+<!-- Custom Banner (hosted in this repo — always works, no third-party dependency) -->
+<img src="./assets/banner.svg" width="100%" alt="Md Enayet Hossain — .NET Developer | Backend & Microservices | GDS Integration Lead"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+Enterprise+OTA+Platforms+%E2%9C%88%EF%B8%8F;ASP.NET+Core+%7C+Microservices+%7C+Angular;Unifying+Sabre%2C+Travelport%2C+Amadeus+%26+Zenith;Clean+Architecture+%7C+DDD+%7C+High-Concurrency+Systems" alt="Typing SVG" />
@@ -229,6 +229,6 @@ Modular AI assistant built on **Microsoft Semantic Kernel**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/enayet329)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.enayet.hossain329@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=120&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%" alt="footer wave"/>
 
 </div>
