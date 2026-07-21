@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Md%20Enayet%20Hossain&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=.NET%20Developer%20%7C%20Backend%20%26%20Microservices%20%7C%20GDS%20Integration%20Lead&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Md%20Enayet%20Hossain&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=.NET%20Developer%20%7C%20Backend%20%26%20Microservices%20%7C%20GDS%20Integration%20Lead&descAlignY=55&descSize=18&v=2" width="100%"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+Enterprise+OTA+Platforms+%E2%9C%88%EF%B8%8F;ASP.NET+Core+%7C+Microservices+%7C+Angular;Unifying+Sabre%2C+Travelport%2C+Amadeus+%26+Zenith;Clean+Architecture+%7C+DDD+%7C+High-Concurrency+Systems" alt="Typing SVG" />
@@ -45,7 +45,7 @@ public class EnayetHossain : SoftwareEngineer
 }
 ```
 
-- 🔭 Currently building **[Travilo](https://dev.travilo.io/home)** — an enterprise multi-supplier OTA flight booking platform unifying **4 global GDS suppliers** in real time
+- 🔭 Currently building **[Travilo](https://dev.travilo.io/home)** — an enterprise OTA platform integrating **11+ flight suppliers** (GDS, NDC, LCC & aggregators) and **4 hotel suppliers** in real time
 - ⚡ Shipped **2 production systems** (Travilo UAT, TrackForce serving **500+ users**) within my first year of professional work
 - 🏗️ Designed a **plugin-based supplier abstraction** — new GDS providers integrate with zero changes to the core booking engine
 - 📜 **Foundational C# with Microsoft** — Developer Certification (2026)
@@ -89,12 +89,24 @@ public class EnayetHossain : SoftwareEngineer
 ![IIS](https://img.shields.io/badge/IIS-5E5E5E?style=for-the-badge&logo=windows&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### GDS & Travel Tech
+### ✈️ Flight — GDS & Airline Suppliers
 ![Sabre](https://img.shields.io/badge/Sabre-E4002B?style=for-the-badge)
 ![Travelport](https://img.shields.io/badge/Travelport-1B365D?style=for-the-badge)
 ![Amadeus](https://img.shields.io/badge/Amadeus-005EB8?style=for-the-badge)
 ![Zenith](https://img.shields.io/badge/Zenith-0e75b6?style=for-the-badge)
+![Verteil NDC](https://img.shields.io/badge/Verteil_NDC-6C3483?style=for-the-badge)
 ![PKFARE](https://img.shields.io/badge/PKFARE-FF6B00?style=for-the-badge)
+![AirIQ](https://img.shields.io/badge/AirIQ-2E86C1?style=for-the-badge)
+![Air Arabia](https://img.shields.io/badge/Air_Arabia-D71920?style=for-the-badge)
+![Air Blue](https://img.shields.io/badge/Air_Blue-00529B?style=for-the-badge)
+![Flydubai](https://img.shields.io/badge/Flydubai-FF6319?style=for-the-badge)
+![US-Bangla](https://img.shields.io/badge/US--Bangla-C8102E?style=for-the-badge)
+
+### 🏨 Hotel Suppliers
+![RateHawk](https://img.shields.io/badge/RateHawk-1A73E8?style=for-the-badge)
+![Hotelbeds](https://img.shields.io/badge/Hotelbeds-E4032E?style=for-the-badge)
+![Nuitée LiteAPI](https://img.shields.io/badge/Nuit%C3%A9e_LiteAPI-0FA47A?style=for-the-badge)
+![TripJack](https://img.shields.io/badge/TripJack-F39C12?style=for-the-badge)
 
 </div>
 
@@ -106,12 +118,12 @@ public class EnayetHossain : SoftwareEngineer
 <tr>
 <td width="50%" valign="top">
 
-### ✈️ [Travilo — OTA Flight Booking Platform](https://dev.travilo.io/home)
+### ✈️ [Travilo — OTA Flight & Hotel Booking Platform](https://dev.travilo.io/home)
 **Feb 2025 – Present · [🔗 Live Demo](https://dev.travilo.io/home)**
 
-Enterprise OTA platform aggregating **real-time flight data from 4 global GDS suppliers** into a unified, normalized search & booking layer.
+Enterprise OTA platform aggregating **11+ flight suppliers** (Sabre, Travelport, Amadeus, Zenith, Verteil NDC, PKFARE, AirIQ + LCC airlines) and **4 hotel suppliers** (RateHawk, Hotelbeds, Nuitée LiteAPI, TripJack) into a unified, normalized search & booking layer.
 
-- 🔌 Plugin-based supplier abstraction — zero core changes per new GDS
+- 🔌 Plugin-based supplier abstraction — zero core changes per new supplier
 - 💰 Dynamic pricing engine (commission, markup, discount)
 - 🎫 End-to-end booking lifecycle: validation → PNR → auto-ticketing
 - ⚡ gRPC streaming for high-concurrency search performance
@@ -188,7 +200,7 @@ Modular AI assistant built on **Microsoft Semantic Kernel**.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=enayet329&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" alt="Contribution Graph" width="95%" />
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=enayet329&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" width="95%" />
+<img src="https://github-trophies.vercel.app/?username=enayet329&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" width="95%" />
 
 </div>
 
@@ -207,8 +219,9 @@ Modular AI assistant built on **Microsoft Semantic Kernel**.
 
 <div align="center">
 
-<!-- Snake Animation (requires the snake workflow - see note) -->
+<!-- Snake Animation — uncomment after setting up the Platane/snk workflow in your enayet329/enayet329 repo
 <img src="https://raw.githubusercontent.com/enayet329/enayet329/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+-->
 
 ### 💬 Let's Build Something Great Together
 
