@@ -45,7 +45,7 @@ public class EnayetHossain : SoftwareEngineer
 }
 ```
 
-- 🔭 Currently building **[Travilo](https://github.com/enayet329)** — an enterprise multi-supplier OTA flight booking platform unifying **4 global GDS suppliers** in real time
+- 🔭 Currently building **[Travilo](https://dev.travilo.io/home)** — an enterprise multi-supplier OTA flight booking platform unifying **4 global GDS suppliers** in real time
 - ⚡ Shipped **2 production systems** (Travilo UAT, TrackForce serving **500+ users**) within my first year of professional work
 - 🏗️ Designed a **plugin-based supplier abstraction** — new GDS providers integrate with zero changes to the core booking engine
 - 📜 **Foundational C# with Microsoft** — Developer Certification (2026)
@@ -106,8 +106,8 @@ public class EnayetHossain : SoftwareEngineer
 <tr>
 <td width="50%" valign="top">
 
-### ✈️ [Travilo — OTA Flight Booking Platform](https://github.com/enayet329)
-**Feb 2025 – Present · Live on UAT (B2C)**
+### ✈️ [Travilo — OTA Flight Booking Platform](https://dev.travilo.io/home)
+**Feb 2025 – Present · [🔗 Live Demo](https://dev.travilo.io/home)**
 
 Enterprise OTA platform aggregating **real-time flight data from 4 global GDS suppliers** into a unified, normalized search & booking layer.
 
@@ -180,10 +180,10 @@ Modular AI assistant built on **Microsoft Semantic Kernel**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=enayet329&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=enayet329&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" height="170" />
 <img src="https://streak-stats.demolab.com?user=enayet329&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enayet329&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=8" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enayet329&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=8" alt="Top Languages" height="165" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=enayet329&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" alt="Contribution Graph" width="95%" />
 
