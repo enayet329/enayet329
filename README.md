@@ -1,114 +1,84 @@
 <div align="center">
 
-<!-- Custom Banner (hosted in this repo — always works, no third-party dependency) -->
 <img src="./assets/banner.svg" width="100%" alt="Md Enayet Hossain — .NET Developer | Backend & Microservices | GDS Integration Lead"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+Enterprise+OTA+Platforms+%E2%9C%88%EF%B8%8F;ASP.NET+Core+%7C+Microservices+%7C+Angular;Unifying+Sabre%2C+Travelport%2C+Amadeus+%26+Zenith;Clean+Architecture+%7C+DDD+%7C+High-Concurrency+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=720&lines=Building+Enterprise+OTA+Platforms+%E2%9C%88%EF%B8%8F;ASP.NET+Core+%7C+Microservices+%7C+Angular;Unifying+Sabre%2C+Travelport%2C+Amadeus+%26+Zenith;Clean+Architecture+%7C+DDD+%7C+High-Concurrency" alt="Typing SVG" />
 
-<br/>
-
-<!-- Badges Row -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=enayet329&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/enayet329?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Microservices-success?style=for-the-badge" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=enayet329&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/enayet329?label=Followers&style=flat-square&color=0e75b6&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Backend%20Roles-success?style=flat-square" alt="Open to work" />
 </p>
 
-<!-- Social Links -->
-<p>
-  <a href="https://portfolio-enayet-hossain.vercel.app/home"><img src="https://img.shields.io/badge/🌐_Portfolio-0e75b6?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/enayet329"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:md.enayet.hossain329@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/enayet329"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<a href="https://portfolio-enayet-hossain.vercel.app/home"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/enayet329"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:md.enayet.hossain329@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/enayet329"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
-## 🚀 About Me
+<br/>
+
+## 👋 About Me
+
+I'm a **Jr. Software Engineer at iBOS Limited**, leading the **GDS Integration Team** on **[Travilo](https://dev.travilo.io/home)** — an enterprise OTA platform that unifies **11+ flight suppliers** and **4 hotel suppliers** into one normalized booking layer. I care about clean architecture, systems that stay fast under concurrency, and abstractions that make the *next* integration trivial.
 
 ```csharp
-public class EnayetHossain : SoftwareEngineer
+var enayet = new SoftwareEngineer
 {
-    public string Role        => "Jr. Software Engineer @ iBOS Limited";
-    public string Leading     => "GDS Integration Team — Travilo OTA Platform";
-    public string[] Expertise => new[]
-    {
-        "ASP.NET Core & Microservices Architecture",
-        "Multi-Supplier GDS Aggregation (Sabre, Travelport, Amadeus, Zenith)",
-        "High-Concurrency Booking Systems",
-        "Clean Architecture & Domain-Driven Design"
-    };
-    public string Location    => "Dhaka, Bangladesh 🇧🇩";
-    public string Education   => "B.Sc. in CSE @ Northern University Bangladesh";
-    public int    ProblemsSolved => 600; // Codeforces • LeetCode • GeeksforGeeks
-}
+    Role       = "Jr. Software Engineer @ iBOS Limited",
+    Leading    = "GDS Integration Team — Travilo OTA Platform",
+    Focus      = ["ASP.NET Core", "Microservices", "Clean Architecture", "DDD"],
+    Location   = "Dhaka, Bangladesh 🇧🇩",
+    Education  = "B.Sc. CSE — Northern University Bangladesh",
+    ProblemsSolved = 600  // Codeforces • LeetCode • GeeksforGeeks
+};
 ```
 
-- 🔭 Currently building **[Travilo](https://dev.travilo.io/home)** — an enterprise OTA platform integrating **11+ flight suppliers** (GDS, NDC, LCC & aggregators) and **4 hotel suppliers** in real time
-- ⚡ Shipped **2 production systems** (Travilo UAT, TrackForce serving **500+ users**) within my first year of professional work
-- 🏗️ Designed a **plugin-based supplier abstraction** — new GDS providers integrate with zero changes to the core booking engine
-- 📜 **Foundational C# with Microsoft** — Developer Certification (2026)
-- 📫 Reach me at **md.enayet.hossain329@gmail.com**
+> 🔭 **Currently building** [Travilo](https://dev.travilo.io/home) — real-time aggregation across GDS, NDC, LCC & aggregator suppliers
+> ⚡ **Shipped 2 production systems** (Travilo UAT · TrackForce, 500+ users) in my first year
+> 🏗️ **Designed a plugin-based supplier abstraction** — new GDS providers plug in with zero core changes
+> 📜 **Foundational C# with Microsoft** — Developer Certification (2026)
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-### Backend & Architecture
-<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp&theme=dark" />
-
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-0e75b6?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2C3E50?style=for-the-badge)
-![DDD](https://img.shields.io/badge/Domain--Driven_Design-8E44AD?style=for-the-badge)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-1E90FF?style=for-the-badge)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge)
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap&theme=dark" />
-
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-
-### Databases & Messaging
-<img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgres&theme=dark" />
-
-![MSSQL](https://img.shields.io/badge/MSSQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-### Cloud, DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,postman&theme=dark" />
-
-![Azure](https://img.shields.io/badge/Azure_Blob-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-5E5E5E?style=for-the-badge&logo=windows&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### ✈️ Flight — GDS & Airline Suppliers
-![Sabre](https://img.shields.io/badge/Sabre-E4002B?style=for-the-badge)
-![Travelport](https://img.shields.io/badge/Travelport-1B365D?style=for-the-badge)
-![Amadeus](https://img.shields.io/badge/Amadeus-005EB8?style=for-the-badge)
-![Zenith](https://img.shields.io/badge/Zenith-0e75b6?style=for-the-badge)
-![Verteil NDC](https://img.shields.io/badge/Verteil_NDC-6C3483?style=for-the-badge)
-![PKFARE](https://img.shields.io/badge/PKFARE-FF6B00?style=for-the-badge)
-![AirIQ](https://img.shields.io/badge/AirIQ-2E86C1?style=for-the-badge)
-![Air Arabia](https://img.shields.io/badge/Air_Arabia-D71920?style=for-the-badge)
-![Air Blue](https://img.shields.io/badge/Air_Blue-00529B?style=for-the-badge)
-![Flydubai](https://img.shields.io/badge/Flydubai-FF6319?style=for-the-badge)
-![US-Bangla](https://img.shields.io/badge/US--Bangla-C8102E?style=for-the-badge)
-
-### 🏨 Hotel Suppliers
-![RateHawk](https://img.shields.io/badge/RateHawk-1A73E8?style=for-the-badge)
-![Hotelbeds](https://img.shields.io/badge/Hotelbeds-E4032E?style=for-the-badge)
-![Nuitée LiteAPI](https://img.shields.io/badge/Nuit%C3%A9e_LiteAPI-0FA47A?style=for-the-badge)
-![TripJack](https://img.shields.io/badge/TripJack-F39C12?style=for-the-badge)
-
-</div>
+<table>
+<tr><td><b>Backend & Arch</b></td><td>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp&theme=dark" height="28"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-0e75b6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Clean_Arch-2C3E50?style=flat-square"/>
+<img src="https://img.shields.io/badge/DDD-8E44AD?style=flat-square"/>
+<img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dapper-1E90FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square"/>
+</td></tr>
+<tr><td><b>Frontend</b></td><td>
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap&theme=dark" height="28"/>
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white"/>
+</td></tr>
+<tr><td><b>Data & Messaging</b></td><td>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite&theme=dark" height="28"/>
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+</td></tr>
+<tr><td><b>Cloud & DevOps</b></td><td>
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,postman&theme=dark" height="28"/>
+<img src="https://img.shields.io/badge/Azure_Blob-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+</td></tr>
+<tr><td><b>✈️ Flight Suppliers</b></td><td>
+Sabre · Travelport · Amadeus · Zenith · Verteil NDC · PKFARE · AirIQ · Air Arabia · Air Blue · Flydubai · US-Bangla
+</td></tr>
+<tr><td><b>🏨 Hotel Suppliers</b></td><td>
+RateHawk · Hotelbeds · Nuitée LiteAPI · TripJack
+</td></tr>
+</table>
 
 <br/>
 
@@ -118,73 +88,65 @@ public class EnayetHossain : SoftwareEngineer
 <tr>
 <td width="50%" valign="top">
 
-### ✈️ [Travilo — OTA Flight & Hotel Booking Platform](https://dev.travilo.io/home)
-**Feb 2025 – Present · [🔗 Live Demo](https://dev.travilo.io/home)**
+### ✈️ [Travilo — OTA Booking Platform](https://dev.travilo.io/home)
+`Feb 2025 – Present` · **[Live](https://dev.travilo.io/home)**
 
-Enterprise OTA platform aggregating **11+ flight suppliers** (Sabre, Travelport, Amadeus, Zenith, Verteil NDC, PKFARE, AirIQ + LCC airlines) and **4 hotel suppliers** (RateHawk, Hotelbeds, Nuitée LiteAPI, TripJack) into a unified, normalized search & booking layer.
+Aggregates **11+ flight** and **4 hotel** suppliers into a unified search & booking layer.
 
-- 🔌 Plugin-based supplier abstraction — zero core changes per new supplier
-- 💰 Dynamic pricing engine (commission, markup, discount)
-- 🎫 End-to-end booking lifecycle: validation → PNR → auto-ticketing
-- ⚡ gRPC streaming for high-concurrency search performance
+- 🔌 Plugin supplier abstraction — zero core changes per supplier
+- 💰 Dynamic pricing (commission · markup · discount)
+- 🎫 Booking lifecycle: validation → PNR → auto-ticketing
+- ⚡ gRPC streaming for high-concurrency search
 
-`ASP.NET Core` `Microservices` `MSSQL` `Dapper` `gRPC`
+`ASP.NET Core` · `Microservices` · `MSSQL` · `Dapper` · `gRPC`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📊 [TrackForce — Employee Analytics](https://trackforce.io)
-**Nov 2024 – Present · Live in Production**
+`Nov 2024 – Present` · **In Production**
 
-Workforce analytics platform supporting **500+ employees** with real-time activity tracking.
+Workforce analytics for **500+ employees** with real-time tracking.
 
 - ⏱️ Time-series session logging on TimescaleDB
 - 🚀 **70% faster reporting** via query optimization
-- 📈 High-throughput analytics & reporting pipeline built from the ground up
+- 📈 High-throughput analytics pipeline built from scratch
 
-`ASP.NET Core` `TimescaleDB` `Dapper`
+`ASP.NET Core` · `TimescaleDB` · `Dapper`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 [Enterprise Microservices E-Commerce](https://github.com/enayet329/AspnetMicroservices)
-**Jan 2024 – Mar 2024**
+### 🛒 [Microservices E-Commerce](https://github.com/enayet329/AspnetMicroservices)
+`Jan 2024 – Mar 2024`
 
-Distributed microservices for catalog, cart & order management.
+Distributed services for catalog, cart & orders.
 
-- 🗄️ Isolated data stores per service
-- 📨 Async communication via RabbitMQ + gRPC
-- 🐳 Fully containerized with Docker
-- ⚡ **3x performance improvement** through service isolation
+- 🗄️ Isolated data store per service
+- 📨 Async messaging via RabbitMQ + gRPC
+- 🐳 Fully containerized · **3x faster** via isolation
 
-`.NET Web API` `EF Core` `Docker` `gRPC` `RabbitMQ`
+`.NET Web API` · `EF Core` · `Docker` · `RabbitMQ`
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [KernelMind — AI Assistant Platform](https://github.com/enayet329/KernelMind)
-**2024**
+### 🤖 [KernelMind — AI Assistant](https://github.com/enayet329/KernelMind)
+`2024`
 
-Modular AI assistant built on **Microsoft Semantic Kernel**.
+Modular AI assistant on **Microsoft Semantic Kernel**.
 
-- 📚 RAG document pipeline with chunking & parsing
-- 🧠 Persistent SQLite memory for conversation history
-- 🔌 Extensible plugin system (GitHub, Notion) via dispatcher pattern
-- 🌐 Documented RESTful Web API
+- 📚 RAG pipeline with chunking & parsing
+- 🧠 Persistent SQLite conversation memory
+- 🔌 Extensible plugins (GitHub, Notion)
 
-`ASP.NET Core` `Semantic Kernel` `OpenAI API` `Blazor`
+`ASP.NET Core` · `Semantic Kernel` · `OpenAI` · `Blazor`
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-🗂️ **More:** [Personal Collection Management](https://personal-collection-management-client.vercel.app/) — full-featured collections app with Algolia search · `ASP.NET Core` `Angular`
-
-</div>
 
 <br/>
 
@@ -192,15 +154,14 @@ Modular AI assistant built on **Microsoft Semantic Kernel**.
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=enayet329&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" height="170" />
-<img src="https://streak-stats.demolab.com?user=enayet329&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=enayet329&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" height="165" />
+<img src="https://streak-stats.demolab.com?user=enayet329&theme=tokyonight&hide_border=true&background=00000000" height="165" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enayet329&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=8" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enayet329&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=8" height="150" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=enayet329&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" alt="Contribution Graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=enayet329&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" width="98%" />
 
-<!-- GitHub Trophies -->
-<img src="https://github-trophies.vercel.app/?username=enayet329&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=enayet329&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="98%" />
 
 </div>
 
@@ -208,26 +169,22 @@ Modular AI assistant built on **Microsoft Semantic Kernel**.
 
 ## 🏆 Highlights
 
-| 🎯 | Achievement |
+| | |
 |---|---|
-| 🚢 | Shipped **2 production systems** (Travilo UAT, TrackForce) within first year of professional work |
+| 🚢 | Shipped **2 production systems** within my first year as a professional |
 | 🧩 | Solved **600+ algorithmic problems** across Codeforces, LeetCode & GeeksforGeeks |
-| 📜 | **Foundational C# with Microsoft** — Developer Certification (freeCodeCamp & Microsoft, 2026) |
-| 👥 | Leading the **GDS Integration Team** on an enterprise platform migration (PHP → ASP.NET Core) |
+| 📜 | **Foundational C# with Microsoft** certification (freeCodeCamp × Microsoft, 2026) |
+| 👥 | Leading a **PHP → ASP.NET Core** enterprise platform migration |
 
 <br/>
 
 <div align="center">
 
-<!-- Snake Animation — uncomment after setting up the Platane/snk workflow in your enayet329/enayet329 repo
-<img src="https://raw.githubusercontent.com/enayet329/enayet329/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
--->
+### 💬 Let's build something great together
 
-### 💬 Let's Build Something Great Together
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-0e75b6?style=for-the-badge)](https://portfolio-enayet-hossain.vercel.app/home)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/enayet329)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.enayet.hossain329@gmail.com)
+<a href="https://portfolio-enayet-hossain.vercel.app/home"><img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/enayet329"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:md.enayet.hossain329@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img src="./assets/footer.svg" width="100%" alt="footer wave"/>
 
